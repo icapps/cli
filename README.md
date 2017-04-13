@@ -2,6 +2,8 @@
 
 The Sequelize Command Line Interface (CLI)
 
+*Small fix to allow sequelize-cli to use babel* (https://github.com/sequelize/cli/issues/112)
+
 ## Installation
 
 Install this globally and you'll have access to the `sequelize` command anywhere on your system.
