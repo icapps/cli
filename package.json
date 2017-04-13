@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sequelize/cli.git"
+    "url": "git://github.com/icapp/sequelize-cli.git"
   },
   "keywords": [
     "sequelize",
