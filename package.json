@@ -57,5 +57,8 @@
   "homepage": "https://github.com/sequelize/cli",
   "bin": {
     "sequelize": "bin/sequelize"
+  },
+  "publishConfig": {
+    "registry": "https://npm.icapps.com"
   }
 }
